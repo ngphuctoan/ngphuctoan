@@ -1,8 +1,11 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngphuctoan&layout=donut-vertical&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,pug,dockerfile,shell&langs_count=10&theme=graywhite" />
-
 <h3 align="center">Nguyễn Phúc Toàn</h3>
 
 I am a graduate student at Ton Duc Thang University, studying Data Science and Machine Learning. I also have a passionate for Full-stack Development, as I enjoy writing web apps and discovering new technologies and frameworks!
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ngphuctoan&card_width=400&layout=compact&show_icons=true&line_height=30&hide=issues,contribs&theme=graywhite&text_bold=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngphuctoan&card_width=320&layout=compact&size_weight=0.25&count_weight=0.75&hide=jupyter%20notebook,pug,dockerfile,shell&theme=graywhite" />
+</p>
 
 <h3 align="center">Stuff I Use</h3>
 
