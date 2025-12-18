@@ -31,8 +31,10 @@ I am a graduate student at Ton Duc Thang University, studying Data Science and M
   </ul>
 </div>
 
-<h3 align="center">Fun Fact</h3>
+<h3 align="center">Fun Facts</h3>
 
-<p align="center">
-  <em>🚧 Work in progress!</em>
+<p>
+  1. I am a pretty bad team leader: I usually steal ~75% of my members' work :sweat_smile:
+  <br />
+  2. I belong to Team "Double Quotes" in JavaScript :coffee:
 </p>
