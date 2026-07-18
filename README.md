@@ -10,7 +10,7 @@
     <tr>
       <td width="50%" valign="top">
         <span>
-          <h3><a href="https://github.com/ngphuctoan/student-news">schedule-cli</a></h3>
+          <h3><a href="https://github.com/ngphuctoan/schedule-cli">schedule-cli</a></h3>
           <p>Command-line interface to view and export week schedules</p>
         </span>
       </td>
